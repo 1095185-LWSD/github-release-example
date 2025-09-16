@@ -1,0 +1,10 @@
+GitHub Releases Demo
+
+This repo shows how GitHub Releases work.
+
+- A release is a snapshot of the repo at a tag.
+- Each release can include notes (written in Markdown).
+- GitHub automatically generates a .zip of the source.
+- Optional: you can attach binaries (like an .exe) so others don’t need to build it.
+
+Uses for releases in class: checkpoints and easy snapshot downloads.
